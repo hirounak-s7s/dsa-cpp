@@ -8,6 +8,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0189-rotate-array](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0189-rotate-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0283-move-zeroes](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0283-move-zeroes/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -35,4 +36,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0189-rotate-array/) | Medium |
+| [0283-move-zeroes](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0283-move-zeroes/) | Easy |
 <!---LeetCode Topics End-->
