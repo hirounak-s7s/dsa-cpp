@@ -11,6 +11,7 @@
 | [0238-product-of-array-except-self](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0283-move-zeroes/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
