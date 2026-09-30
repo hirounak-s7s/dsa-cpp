@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0075-sort-colors](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0075-sort-colors/) | Medium |
 | [0189-rotate-array](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0189-rotate-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0268-missing-number/) | Easy |
@@ -42,6 +43,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0075-sort-colors](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0075-sort-colors/) | Medium |
 | [0189-rotate-array](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0283-move-zeroes/) | Easy |
 ## Bit Manipulation
@@ -51,5 +53,14 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0075-sort-colors/) | Medium |
 | [0268-missing-number](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0268-missing-number/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
