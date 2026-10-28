@@ -22,6 +22,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0007-reverse-integer/) | Medium |
 | [0189-rotate-array](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0268-missing-number/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/hirounak-s7s/dsa-cpp/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
