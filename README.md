@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0031-next-permutation](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0075-sort-colors](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -46,6 +47,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0031-next-permutation](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0075-sort-colors/) | Medium |
 | [0189-rotate-array](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0283-move-zeroes/) | Easy |
