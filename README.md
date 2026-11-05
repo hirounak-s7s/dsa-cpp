@@ -9,6 +9,7 @@
 | [0031-next-permutation](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -82,6 +83,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0054-spiral-matrix/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hirounak-s7s/dsa-cpp/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -91,5 +93,6 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0073-set-matrix-zeroes/) | Medium |
 <!---LeetCode Topics End-->
