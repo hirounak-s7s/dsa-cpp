@@ -19,12 +19,14 @@
 | [0268-missing-number](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hirounak-s7s/dsa-cpp/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -40,6 +42,7 @@
 | [0073-set-matrix-zeroes](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0268-missing-number](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0268-missing-number/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
