@@ -17,6 +17,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0189-rotate-array](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0189-rotate-array/) | Medium |
+| [0229-majority-element-ii](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0283-move-zeroes/) | Easy |
@@ -43,6 +44,7 @@
 | [0001-two-sum](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0001-two-sum/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0229-majority-element-ii](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0268-missing-number/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Binary Search
@@ -72,6 +74,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0075-sort-colors/) | Medium |
+| [0229-majority-element-ii](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0268-missing-number/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
@@ -102,4 +105,12 @@
 | [0048-rotate-image](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0073-set-matrix-zeroes/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0229-majority-element-ii](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0229-majority-element-ii/) | Medium |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0229-majority-element-ii](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0229-majority-element-ii/) | Medium |
 <!---LeetCode Topics End-->
