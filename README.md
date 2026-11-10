@@ -16,6 +16,7 @@
 | [0119-pascals-triangle-ii](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0189-rotate-array](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0189-rotate-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -90,6 +91,7 @@
 | [0118-pascals-triangle](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/hirounak-s7s/dsa-cpp/tree/main/0152-maximum-product-subarray/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
